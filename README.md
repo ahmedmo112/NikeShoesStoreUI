@@ -1,4 +1,4 @@
-# nike_store_ui
+# Nike Store UI
 
 Shose Store App with creative UI
 
